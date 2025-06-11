@@ -9,6 +9,7 @@ The offline-PDF version can be downloaded from the repo:
 
 https://github.com/ghorwin/OpenGLWithQt-Tutorial/raw/master/docs/OpenGLQtTutorial.pdf
 
+Please also check out my other tutorials at _Schneggenport_ (https://schneggenport.de)
 
 ## Contents
 
