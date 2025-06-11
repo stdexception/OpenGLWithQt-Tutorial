@@ -3,7 +3,7 @@ A tutorial to use OpenGL within Qt Widgets applications. A comprehensive discuss
 
 The generated documentation can be found on:
 
-- https://ghorwin.github.io/OpenGLWithQt-Tutorial
+https://ghorwin.github.io/OpenGLWithQt-Tutorial
 
 The offline-PDF version can be downloaded from the repo: 
 
